@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>50.jpg</filename>
+	<path>C:\Users\Prabhjeet\Desktop\New folder\Images\50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>733</ymin>
+			<xmax>650</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>
